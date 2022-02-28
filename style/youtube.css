@@ -1,0 +1,19 @@
+body {
+    background-color: white ; 
+    
+} 
+input[type=text], select {
+    width: 270%;
+    padding: 10px 12px;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    box-sizing: border-box;
+  }
+hr{
+    background: lightgray;
+} 
+p{
+    padding-left:2em ;
+} 
