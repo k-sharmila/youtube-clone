@@ -1,5 +1,6 @@
 
 function setOldImage() {
+  
 document.getElementById("v1").src = "https://i.ytimg.com/an_webp/-Nw7yRunFbY/mqdefault_6s.webp?du=3000&sqp=CISHvJAG&rs=AOn4CLASsjKy1Q2TebZO0i1pjM8kyY5QDA";
 }
 function setNewImage() {
