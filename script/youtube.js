@@ -19,7 +19,6 @@ document.getElementById("v2").src = "https://encrypted-tbn0.gstatic.com/images?q
 function setOldImage3() {
 document.getElementById("v3").src = "https://i.ytimg.com/an_webp/N251yeT_cQQ/mqdefault_6s.webp?du=3000&sqp=CMDmu5AG&rs=AOn4CLCepCxQadIqDYkreASI_a6YNnLJ1g";
 
-
 }
 
 function setNewImage3() {
